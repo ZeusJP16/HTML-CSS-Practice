@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&family=Nunito+Sans:wght@400;600;700;900&display=swap');
+
+body {
+    padding-left: 98px;
+    padding-right: 98px;
+}
+
+.Responsive {
+    max-width: 1366px;
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.Header-content {
+    display: flex;
+    background: #fff;
+    padding: 38px 0px;
+}
+
+.Header-content-nav {
+    display: flex;
+    list-style: none;
+}
+
+.Header-content-nav-item {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+.Header-content-nav-item a {
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.amelia-woods {
+    background: #3e3e3e;
+    color: #fff;
+    text-align: center;
+}
+
+.amelia-woods-ttl {
+    font-size: 38px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-bottom: 0%;
+}
+
+.amelia-woods-txt {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
